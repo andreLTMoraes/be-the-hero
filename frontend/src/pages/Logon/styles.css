@@ -1,6 +1,7 @@
 .logon-container {
     width: 100%;
-    max-width: 1120px;
+    max-width: 1180px;
+    padding: 0 50px;
     height: 100vh;
     margin: 0 auto;
 
